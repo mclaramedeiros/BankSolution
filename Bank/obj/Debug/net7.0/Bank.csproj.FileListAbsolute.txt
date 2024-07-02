@@ -1,0 +1,14 @@
+C:\Users\francisco\source\repos\Bank\Bank\bin\Debug\net7.0\Bank.exe
+C:\Users\francisco\source\repos\Bank\Bank\bin\Debug\net7.0\Bank.deps.json
+C:\Users\francisco\source\repos\Bank\Bank\bin\Debug\net7.0\Bank.runtimeconfig.json
+C:\Users\francisco\source\repos\Bank\Bank\bin\Debug\net7.0\Bank.dll
+C:\Users\francisco\source\repos\Bank\Bank\bin\Debug\net7.0\Bank.pdb
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.AssemblyInfoInputs.cache
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.AssemblyInfo.cs
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.dll
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\refint\Bank.dll
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.pdb
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\Bank.genruntimeconfig.cache
+C:\Users\francisco\source\repos\Bank\Bank\obj\Debug\net7.0\ref\Bank.dll
